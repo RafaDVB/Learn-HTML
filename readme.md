@@ -1,7 +1,5 @@
 # My files for "Learn HTML - Full Tutorial for Beginners"
 
----
-
 ## Overview
 
 This repository will contain the files I wrote while following the [tutorial](https://www.youtube.com/watch?v=kUMe1FH4CHE) by freeCodeCamp.org in YouTube.
